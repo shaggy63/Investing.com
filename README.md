@@ -1,6 +1,6 @@
 # Investing.com
 ### From: 
-`` https://www.investing.com/equities/trending-stocks
+`` https://www.investing.com/equities/trending-stocks ``
 ### Scraped: 
 - Live Tickers
 - Live Trending Stocks by Popularity Graphs

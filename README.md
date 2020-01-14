@@ -1,6 +1,4 @@
-# Investing.com
-
-## Scraping off trending stocks from investing.com for US stocks 
+# Scraping off trending stocks from investing.com for US stocks 
 
 ### From: 
 `` https://www.investing.com/equities/trending-stocks ``
